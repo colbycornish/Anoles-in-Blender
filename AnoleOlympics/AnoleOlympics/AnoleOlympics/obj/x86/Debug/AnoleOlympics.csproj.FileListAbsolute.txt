@@ -1,0 +1,9 @@
+C:\Users\Sean\Documents\Visual Studio 2010\Projects\AnoleOlympics\AnoleOlympics\AnoleOlympics\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sean\Documents\Visual Studio 2010\Projects\AnoleOlympics\AnoleOlympics\AnoleOlympics\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Sean\Documents\Visual Studio 2010\Projects\AnoleOlympics\AnoleOlympics\AnoleOlympics\bin\x86\Debug\Content\Model\Lizard.xnb
+C:\Users\Sean\Documents\Visual Studio 2010\Projects\AnoleOlympics\AnoleOlympics\AnoleOlympics\bin\x86\Debug\Content\Model\Lizard (Brown from MB - FBX).fbx-files\Material_Flattened_Diffuse.xnb
+C:\Users\Sean\Documents\Visual Studio 2010\Projects\AnoleOlympics\AnoleOlympics\AnoleOlympics\bin\x86\Debug\Content\Model\Lizard (Brown from MB - FBX).fbx-files\Material_Flattened_Diffuse_0.xnb
+C:\Users\Sean\Documents\Visual Studio 2010\Projects\AnoleOlympics\AnoleOlympics\AnoleOlympics\bin\x86\Debug\AnoleOlympics.exe
+C:\Users\Sean\Documents\Visual Studio 2010\Projects\AnoleOlympics\AnoleOlympics\AnoleOlympics\bin\x86\Debug\AnoleOlympics.pdb
+C:\Users\Sean\Documents\Visual Studio 2010\Projects\AnoleOlympics\AnoleOlympics\AnoleOlympics\obj\x86\Debug\AnoleOlympics.exe
+C:\Users\Sean\Documents\Visual Studio 2010\Projects\AnoleOlympics\AnoleOlympics\AnoleOlympics\obj\x86\Debug\AnoleOlympics.pdb
